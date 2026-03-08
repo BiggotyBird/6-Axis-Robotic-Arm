@@ -25,10 +25,11 @@ Today is the day I start my project, so there are a couple of things I need to g
 My budget for this project (as a tier two project) is only 200 dollars, so this is gonna be quite tight. 
 
 * ESP32 as the brain (I'm so excited, I've never used the ESP32 before).
-* NEMA 17 Stepper motors x6 (most standard pick for CNCing or larger hobbyist robotic arm).
+* NEMA 17 Stepper motors x6 (most standard pick for CNCing or larger hobbyist robotic arms).
 * Stepper drivers x6.
 * Power supply.
 * Miscellaneous (wires, pcb)
 
-
+| Component | Quantity | Price | Link |
+|||||
 
