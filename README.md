@@ -4,7 +4,7 @@ This is my first project with Bluprint, or Hack Club as a whole. I have NO prior
 
 I'm aware this project is going to be very heavy on CAD, and I'm looking forward to learning more in the field.
 
-The electronics  component does not seem to be too complicated, but I will be spending the following time on this day researching it.
+The electronics  component does not seem to be too complicated, but I will be spending the following time on this day researching everything.
 
 The software component, I believe, will be the greatest challenge. I have big pictures for this project.
 
