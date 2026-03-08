@@ -31,5 +31,6 @@ My budget for this project (as a tier two project) is only 200 dollars, so this 
 * Miscellaneous (wires, pcb)
 
 | Component | Quantity | Price | Link |
+----
 |||||
-
+----
