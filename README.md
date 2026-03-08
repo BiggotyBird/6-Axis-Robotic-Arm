@@ -30,7 +30,3 @@ My budget for this project (as a tier two project) is only 200 dollars, so this 
 * Power supply.
 * Miscellaneous (wires, pcb)
 
-| Component | Quantity | Price | Link |
-----
-|||||
-----
